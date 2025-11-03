@@ -2,5 +2,5 @@
 .jekyll-cache
 config
 _site
-incipits
-index
+incipits/*.svg
+index/*.json
