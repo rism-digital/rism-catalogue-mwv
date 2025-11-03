@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rism-digital/rism-catalogue-theme
-  revision: d7d13b8230eb82dd753b1ac484b23fcdde24c39f
+  revision: 60540c7caec2de799f30de624b3405a1eb81cd90
   specs:
-    rism-catalogue-theme (1.0.2)
+    rism-catalogue-theme (1.0.3)
       jekyll (~> 4.1)
 
 GIT
@@ -52,8 +52,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
-    jekyll-polyglot (1.5.0)
-      jekyll (>= 3.0)
+    jekyll-polyglot (1.11.0)
+      jekyll (>= 4.0, >= 3.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.2.0)
