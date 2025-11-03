@@ -2,7 +2,7 @@ title:  MWV
 subtitle: Catalogue of the Works of Felix Mendelssohn Bartholdy
 
 email: info@rism.digital
-baseurl: ""
+baseurl: "/rism-catalogue-mwv"
 
 defaults:
   - scope:
