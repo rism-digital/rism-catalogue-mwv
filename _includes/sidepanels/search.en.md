@@ -1,0 +1,2 @@
+
+{% include sidepanels/search.html %}

@@ -1,0 +1,16 @@
+$rism-digital-center-primary: hsl(0, 74%, 32%); /* equivalent #8c1515 */
+$primary: $rism-digital-center-primary;
+$link: $rism-digital-center-primary;
+$rism-digital-center-white: #fff;
+
+// navbar
+$navbar-background-color: $rism-digital-center-primary;
+$navbar-item-color: $rism-digital-center-white;
+$navbar-item-hover-background-color: lighten($rism-digital-center-primary, 5%);
+$navbar-item-hover-color: $rism-digital-center-white;
+$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
+$navbar-item-active-color: $rism-digital-center-white;
+
+$ro-header-color: $primary;
+
+@import "rism-online-renderer";

@@ -1,0 +1,43 @@
+- id: search-title
+  name:
+    en: "Search"
+    de: "Suche"
+    fr: "Recherche"
+    it: "Ricerca"
+- id: search-results
+  name:
+    en: "Search results"
+    de: "Suchergebnisse"
+    fr: "Résultats de la recherche"
+    it: "Risultati della ricerca"
+- id: search-input
+  name:
+    en: "Search input"
+    de: "Sucheingabe"
+    fr: "Saisie de recherche"
+    it: "Ingresso di ricerca"
+- id: search-results-count
+  name:
+    en: "result(s)"
+    de: "Ergebnisse"
+    fr: "résultat(s)"
+    it: "resultati"
+- id: search-no-result
+  name:
+    en: "No result found when searching for"
+    de: "Kein Ergebnis gefunden bei der Suche nach"
+    fr: "Aucun résultat trouvé en cherchant pour"
+    it: "Nessun risultato trovato quando si cerca"
+- id: search-no-query
+  name:
+    en: "Enter a search term ..."
+    de: "Geben Sie einen Suchbegriff ein ..."
+    fr: "Entrez un terme de recherche ..."
+    it: "Inserisci un termine di ricerca ..."
+- id: search-facet1
+  name:
+    en: "Key"
+    de: "Tonart"
+    fr: "Tonalité"
+    it: "Tonalita"
+
