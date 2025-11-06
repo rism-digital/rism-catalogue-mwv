@@ -4,12 +4,6 @@ subtitle: Catalogue of the Works of Felix Mendelssohn Bartholdy
 email: info@rism.digital
 baseurl: "/rism-catalogue-mwv"
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /images/logo-square.png
-
 sponsors:
   - url: https://fr.wikipedia.org/wiki/Licence_Creative_Commons
     logo: CC_license.png
@@ -23,9 +17,5 @@ sass:
   sourcemap: never
 
 theme: rism-catalogue-theme
-
-plugins:
-  - jekyll-rism-online-renderer
-
 
 rism_catalogue: "publications/30025296"
