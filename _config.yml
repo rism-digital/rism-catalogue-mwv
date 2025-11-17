@@ -1,5 +1,9 @@
-title:  MWV
-subtitle: Catalogue of the Works of Felix Mendelssohn Bartholdy
+title: 
+ en: Catalogue of the Works of Felix Mendelssohn Bartholdy (MWV)
+ de: Werkverzeichnis von Felix Mendelssohn Bartholdy (MWV)
+title_mobile: 
+  en: Works of F. Mendelssohn B. (MWV)
+  de: Werke von F. Mendelssohn B. (MWV)
 
 email: info@rism.digital
 baseurl: "/rism-catalogue-mwv"

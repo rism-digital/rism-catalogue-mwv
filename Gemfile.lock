@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rism-digital/rism-catalogue-theme
-  revision: 60540c7caec2de799f30de624b3405a1eb81cd90
+  revision: 8d2746b397616648a845e45c390505bff6a2bbcf
   specs:
-    rism-catalogue-theme (1.0.3)
+    rism-catalogue-theme (1.0.5)
       jekyll (~> 4.1)
 
 GIT
